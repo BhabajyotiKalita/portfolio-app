@@ -35,8 +35,7 @@ const portfolio = {
             title: "Portfolio Website",
             description: "A responsive portfolio application built using Node.js, Express, EJS and deployed on AWS EC2.",
             technologies: ["Node.js", "Express", "EJS", "AWS EC2"],
-            github: "#",
-            screenshot: "#"
+            github: "https://github.com/BhabajyotiKalita/portfolio-app",
         }
     
     ]
