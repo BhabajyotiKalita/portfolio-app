@@ -1,0 +1,21 @@
+{
+  "name": "portfolio-app",
+  "version": "1.0.0",
+  "description": "My DevOps Portfolio",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "portfolio"
+  ],
+  "author": "Bhabajyoti Kalita",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^6.0.1",
+    "express": "^5.2.1"
+  }
+}
