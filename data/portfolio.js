@@ -36,6 +36,12 @@ const portfolio = {
             description: "A responsive portfolio application built using Node.js, Express, EJS and deployed on AWS EC2.",
             technologies: ["Node.js", "Express", "EJS", "AWS EC2"],
             github: "https://github.com/BhabajyotiKalita/portfolio-app",
+        },
+        {
+            title: "Flask Weather Forecast App",
+            description: "A modern weather forecasting web application built with Python Flask that provides real-time weather information for any city using the OpenWeather API.",
+            technologies: ["Python", "Flask", "OpenWeather API", "AWS EC2"],
+            github: "https://github.com/BhabajyotiKalita/weather-api",
         }
     
     ]
