@@ -42,6 +42,12 @@ const portfolio = {
             description: "A modern weather forecasting web application built with Python Flask that provides real-time weather information for any city using the OpenWeather API.",
             technologies: ["Python", "Flask", "OpenWeather API", "AWS EC2"],
             github: "https://github.com/BhabajyotiKalita/weather-api",
+        },
+        {
+            title: "System Health Dashboard",
+            description: "A Java Spring Boot monitoring dashboard for tracking real-time CPU, memory, disk utilization, system information, and application uptime, deployed on AWS EC2.",
+            technologies: ["Java", "Spring Boot", "Thymeleaf", "Maven", "AWS EC2", "Nginx"],
+            github: "https://github.com/BhabajyotiKalita/system-health-dashboard"
         }
     
     ]
